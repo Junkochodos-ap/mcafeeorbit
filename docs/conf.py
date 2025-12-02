@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'McAfee Orbit'
+project = 'Unlocks HR Block'
 copyright = '2025'
-author = 'Darlyne Chauve'
+author = 'Marta Alvarez'
 
 release = '1.0'
 
